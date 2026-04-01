@@ -1,0 +1,15 @@
+C:\Users\79998\source\repos\Skada C1\Skada C1\bin\Debug\Skada C1.exe.config
+C:\Users\79998\source\repos\Skada C1\Skada C1\bin\Debug\Skada C1.exe
+C:\Users\79998\source\repos\Skada C1\Skada C1\bin\Debug\Skada C1.pdb
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1.csproj.AssemblyReference.cache
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\hmi_efrem.g.cs
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\App.g.cs
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1_MarkupCompile.cache
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1_MarkupCompile.lref
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\hmi_efrem.baml
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1.g.resources
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada_C1.Properties.Resources.resources
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1.csproj.GenerateResource.cache
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1.csproj.CoreCompileInputs.cache
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1.exe
+C:\Users\79998\source\repos\Skada C1\Skada C1\obj\Debug\Skada C1.pdb

@@ -16,17 +16,27 @@
                    VerticalAlignment="Top" 
                    Margin="52,217,0,0" />
 
-        <!-- Верхний красный прямоугольник -->
-        <Rectangle Width="100" Height="60" 
-                   Fill="Red" 
-                   Stroke="DarkRed" 
-                   StrokeThickness="3"
-                   HorizontalAlignment="Left" 
-                   VerticalAlignment="Top" 
-                   Margin="326,25,0,0" />
+        <!-- Красная рамка с числом (Border вместо Rectangle) -->
+        <Border Width="100" Height="60"
+                Background="Red"
+                BorderBrush="DarkRed"
+                BorderThickness="3"
+                CornerRadius="0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="326,25,0,0">
+            <TextBlock x:Name="ValueText" 
+                       Text="0" 
+                       FontSize="28" 
+                       FontWeight="Bold" 
+                       Foreground="White"
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center"/>
+        </Border>
 
         <!-- Кнопка "<" -->
-        <Button Width="100" Height="60"
+        <Button x:Name="MinusButton" 
+                Width="100" Height="60"
                 Background="DodgerBlue"
                 BorderBrush="Navy"
                 BorderThickness="4"
@@ -36,10 +46,12 @@
                 Content="&lt;"
                 HorizontalAlignment="Left"
                 VerticalAlignment="Top"
-                Margin="266,97,0,0" />
+                Margin="266,97,0,0"
+                Click="MinusButton_Click"/>
 
         <!-- Кнопка ">" -->
-        <Button Width="100" Height="60"
+        <Button x:Name="PlusButton" 
+                Width="100" Height="60"
                 Background="DodgerBlue"
                 BorderBrush="Navy"
                 BorderThickness="4"
@@ -49,6 +61,7 @@
                 Content="&gt;"
                 HorizontalAlignment="Left"
                 VerticalAlignment="Top"
-                Margin="388,97,0,0" />
+                Margin="388,97,0,0"
+                Click="PlusButton_Click"/>
     </Grid>
 </Window>

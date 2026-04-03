@@ -15,14 +15,37 @@ using System.Windows.Shapes;
 
 namespace Efrem_skada
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
+        private double currentValue = 0;
+
         public MainWindow()
         {
             InitializeComponent();
+            UpdateDisplay();
+        }
+
+        private void PlusButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (currentValue < 100)
+            {
+                currentValue++;
+                UpdateDisplay();
+            }
+        }
+
+        private void MinusButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (currentValue > 0)
+            {
+                currentValue--;
+                UpdateDisplay();
+            }
+        }
+
+        private void UpdateDisplay()
+        {
+            ValueText.Text = currentValue.ToString("0");
         }
     }
 }

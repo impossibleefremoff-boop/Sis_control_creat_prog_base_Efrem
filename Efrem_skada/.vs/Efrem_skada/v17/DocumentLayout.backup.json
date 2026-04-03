@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\79998\\source\\repos\\Efrem_skada\\",
+  "WorkspaceRootPath": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|c:\\users\\79998\\source\\repos\\efrem_skada\\efrem_skada\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|c:\\users\\79998\\sis_control_creat_prog_base_efrem\\efrem_skada\\efrem_skada\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|solutionrelative:efrem_skada\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|C:\\Users\\79998\\source\\repos\\Efrem_skada\\efrem_skada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\efrem_skada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|solutionrelative:efrem_skada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\79998\\source\\repos\\Efrem_skada\\Efrem_skada\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Efrem_skada\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\79998\\source\\repos\\Efrem_skada\\Efrem_skada\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\MainWindow.xaml",
               "RelativeToolTip": "Efrem_skada\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-03T11:13:42.091Z",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\79998\\source\\repos\\Efrem_skada\\Efrem_skada\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Efrem_skada\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\79998\\source\\repos\\Efrem_skada\\Efrem_skada\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\MainWindow.xaml.cs",
               "RelativeToolTip": "Efrem_skada\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

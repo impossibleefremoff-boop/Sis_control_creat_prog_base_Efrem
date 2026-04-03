@@ -47,5 +47,13 @@ namespace Efrem_skada
         {
             ValueText.Text = currentValue.ToString("0");
         }
+        private void MinusMinusButton_Копировать(object sender, RoutedEventArgs e)
+        {
+            if (currentValue > 0)
+            {
+                currentValue-10;
+                UpdateDisplay();
+            }
+        }
     }
 }

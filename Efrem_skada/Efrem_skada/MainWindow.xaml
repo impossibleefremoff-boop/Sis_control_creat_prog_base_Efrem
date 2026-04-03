@@ -14,7 +14,7 @@
                    StrokeThickness="3"
                    HorizontalAlignment="Left" 
                    VerticalAlignment="Top" 
-                   Margin="52,217,0,0" />
+                   Margin="10,246,0,0" />
 
         <!-- Красная рамка с числом (Border вместо Rectangle) -->
         <Border Width="100" Height="60"
@@ -63,5 +63,18 @@
                 VerticalAlignment="Top"
                 Margin="388,97,0,0"
                 Click="PlusButton_Click"/>
+        <Button x:Name="MinusMinusButton_Копировать" 
+            Width="100" Height="60"
+            Background="Red"
+            BorderBrush="Navy"
+            BorderThickness="4"
+            FontSize="36"
+            FontWeight="Bold"
+            Foreground="White"
+            Content="&lt;"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="266,172,0,0"
+            Click="MinusButton_Click"/>
     </Grid>
 </Window>

@@ -1,0 +1,14 @@
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\bin\Debug\Efrem_skada.exe.config
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\bin\Debug\Efrem_skada.exe
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\bin\Debug\Efrem_skada.pdb
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.csproj.AssemblyReference.cache
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\MainWindow.baml
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\MainWindow.g.cs
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\App.g.cs
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada_MarkupCompile.cache
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.g.resources
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.Properties.Resources.resources
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.csproj.GenerateResource.cache
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.csproj.CoreCompileInputs.cache
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.exe
+C:\Users\79998\source\repos\Efrem_skada\Efrem_skada\obj\Debug\Efrem_skada.pdb

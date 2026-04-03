@@ -7,37 +7,48 @@
         WindowStartupLocation="CenterScreen">
 
     <Grid Background="#F5E6D3">
-        <!-- Бежевый фон -->
-
-        <!-- Маленький прямоугольник -->
-        <Rectangle Width="100" 
-                   Height="60" 
+        <!-- Большой прямоугольник (остаётся) -->
+        <Rectangle Width="256" Height="178" 
                    Fill="DodgerBlue" 
                    Stroke="Navy" 
                    StrokeThickness="3"
                    HorizontalAlignment="Left" 
-                   VerticalAlignment="Top" Margin="280,99,0,0" RenderTransformOrigin="0.979,-0.019" />
-        <Rectangle Width="100" 
-            Height="60" 
-            Fill="DodgerBlue" 
-            Stroke="Navy" 
-            StrokeThickness="3"
-            HorizontalAlignment="Left" 
-            VerticalAlignment="Top" Margin="400,99,0,0" />
-        <Rectangle Width="100" 
-            Height="60" 
-            Fill="DodgerBlue" 
-            Stroke="Navy" 
-            StrokeThickness="3"
-            HorizontalAlignment="Left" 
-            VerticalAlignment="Top" Margin="341,22,0,0" />
-        <Rectangle Width="256" 
-            Height="178" 
-            Fill="DodgerBlue" 
-            Stroke="Navy" 
-            StrokeThickness="3"
-            HorizontalAlignment="Left" 
-            VerticalAlignment="Top" Margin="52,217,0,0" RenderTransformOrigin="0.979,-0.019" />
+                   VerticalAlignment="Top" 
+                   Margin="52,217,0,0" />
 
+        <!-- Верхний красный прямоугольник -->
+        <Rectangle Width="100" Height="60" 
+                   Fill="Red" 
+                   Stroke="DarkRed" 
+                   StrokeThickness="3"
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Top" 
+                   Margin="326,25,0,0" />
+
+        <!-- Кнопка "<" -->
+        <Button Width="100" Height="60"
+                Background="DodgerBlue"
+                BorderBrush="Navy"
+                BorderThickness="4"
+                FontSize="36"
+                FontWeight="Bold"
+                Foreground="White"
+                Content="&lt;"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="266,97,0,0" />
+
+        <!-- Кнопка ">" -->
+        <Button Width="100" Height="60"
+                Background="DodgerBlue"
+                BorderBrush="Navy"
+                BorderThickness="4"
+                FontSize="36"
+                FontWeight="Bold"
+                Foreground="White"
+                Content="&gt;"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="388,97,0,0" />
     </Grid>
 </Window>

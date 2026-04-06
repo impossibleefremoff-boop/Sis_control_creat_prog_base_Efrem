@@ -7,3 +7,12 @@ obj/
 *.baml 
 *.user 
 *.suo 
+.vs/ 
+bin/ 
+obj/ 
+*.exe 
+*.pdb 
+*.cache 
+*.baml 
+*.user 
+*.suo 

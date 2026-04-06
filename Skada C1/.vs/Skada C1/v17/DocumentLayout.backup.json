@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\79998\\source\\repos\\Skada C1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|c:\\users\\79998\\source\\repos\\skada c1\\skada c1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|solutionrelative:skada c1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|c:\\users\\79998\\source\\repos\\skada c1\\skada c1\\hmi_efrem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|solutionrelative:skada c1\\hmi_efrem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|c:\\users\\79998\\source\\repos\\skada c1\\skada c1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|solutionrelative:skada c1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|c:\\users\\79998\\source\\repos\\skada c1\\skada c1\\hmi_efrem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25A9149-40BF-41D4-AE5F-34AFC772EE72}|Skada C1\\Skada C1.csproj|solutionrelative:skada c1\\hmi_efrem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,11 +23,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Skada C1\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\MainWindow.xaml",
-              "RelativeToolTip": "Skada C1\\MainWindow.xaml",
+              "Title": "hmi_efrem.xaml",
+              "DocumentMoniker": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\hmi_efrem.xaml",
+              "RelativeDocumentMoniker": "Skada C1\\hmi_efrem.xaml",
+              "ToolTip": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\hmi_efrem.xaml",
+              "RelativeToolTip": "Skada C1\\hmi_efrem.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-01T14:05:48.741Z",
               "EditorCaption": ""
@@ -35,11 +35,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Skada C1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Skada C1\\MainWindow.xaml.cs",
+              "Title": "hmi_efrem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\hmi_efrem.xaml.cs",
+              "RelativeDocumentMoniker": "Skada C1\\hmi_efrem.xaml.cs",
+              "ToolTip": "C:\\Users\\79998\\source\\repos\\Skada C1\\Skada C1\\hmi_efrem.xaml.cs",
+              "RelativeToolTip": "Skada C1\\hmi_efrem.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T14:05:47.974Z",

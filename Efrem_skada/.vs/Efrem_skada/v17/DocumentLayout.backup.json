@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\efrem_skada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|solutionrelative:efrem_skada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|c:\\users\\79998\\sis_control_creat_prog_base_efrem\\efrem_skada\\efrem_skada\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0AF3BDAB-9F2C-42B7-A697-0239EDBD0FAD}|Efrem_skada\\Efrem_skada.csproj|solutionrelative:efrem_skada\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\App.xaml",
+              "RelativeDocumentMoniker": "Efrem_skada\\App.xaml",
+              "ToolTip": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\App.xaml",
+              "RelativeToolTip": "Efrem_skada\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T13:39:33.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +60,7 @@
               "RelativeDocumentMoniker": "Efrem_skada\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\79998\\Sis_control_creat_prog_base_Efrem\\Efrem_skada\\Efrem_skada\\MainWindow.xaml.cs",
               "RelativeToolTip": "Efrem_skada\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T11:13:41.26Z",
               "EditorCaption": ""

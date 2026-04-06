@@ -25,6 +25,7 @@ namespace Efrem_skada
             UpdateDisplay();
         }
 
+        // ===== ЛОГИКА ДЛЯ КРАСНОЙ РАМКИ (+ / -) =====
         private void PlusButton_Click(object sender, RoutedEventArgs e)
         {
             if (currentValue < 100)
@@ -46,6 +47,65 @@ namespace Efrem_skada
         private void UpdateDisplay()
         {
             ValueText.Text = currentValue.ToString("0");
+        }
+
+        // ===== ОБЩИЙ МЕТОД ДЛЯ ОБРАБОТКИ КНОПОК ОТКРЫТ/ЗАКРЫТ =====
+        private void SetButtonState(Button openBtn, Button closeBtn, bool isOpen)
+        {
+            if (isOpen)
+            {
+                openBtn.Background = Brushes.Green;
+                closeBtn.Background = Brushes.White;
+            }
+            else
+            {
+                openBtn.Background = Brushes.White;
+                closeBtn.Background = Brushes.Green;
+            }
+        }
+
+        // ===== ПАРА 1 =====
+        private void Pair1_Open_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair1_Open, Pair1_Close, true);
+        }
+
+        private void Pair1_Close_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair1_Open, Pair1_Close, false);
+        }
+
+        // ===== ПАРА 2 =====
+        private void Pair2_Open_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair2_Open, Pair2_Close, true);
+        }
+
+        private void Pair2_Close_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair2_Open, Pair2_Close, false);
+        }
+
+        // ===== ПАРА 3 =====
+        private void Pair3_Open_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair3_Open, Pair3_Close, true);
+        }
+
+        private void Pair3_Close_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair3_Open, Pair3_Close, false);
+        }
+
+        // ===== ПАРА 4 =====
+        private void Pair4_Open_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair4_Open, Pair4_Close, true);
+        }
+
+        private void Pair4_Close_Click(object sender, RoutedEventArgs e)
+        {
+            SetButtonState(Pair4_Open, Pair4_Close, false);
         }
     }
 }

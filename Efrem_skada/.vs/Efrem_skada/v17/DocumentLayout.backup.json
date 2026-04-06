@@ -25,6 +25,10 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.g.cs",
@@ -34,12 +38,7 @@
               "RelativeToolTip": "Efrem_skada\\obj\\Debug\\MainWindow.g.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAIAwwG4AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T12:13:46.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-04-03T12:13:46.262Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Efrem_skada\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T11:13:41.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T11:13:41.26Z"
             }
           ]
         }
